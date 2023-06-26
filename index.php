@@ -1,3 +1,3 @@
 <?php
-	echo "salam";
+	echo "salam necesen";
 ?>
